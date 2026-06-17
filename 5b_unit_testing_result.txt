@@ -1,0 +1,5 @@
+theia@theiadocker-mhamzanasir0:/home/project/final_project
+$ python3 test_emotion_detection.py
+All test cases passed successfully!
+theia@theiadocker-mhamzanasir0:/home/project/final_project
+$ 
